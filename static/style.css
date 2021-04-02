@@ -1,0 +1,52 @@
+label {
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+
+input, select text-area {
+    background: #d7eaff80;
+    border: 1px solid #ccc;
+    font-size: 100%;
+    padding: 3px;
+    margin: 10px 0px 0px 10px;
+}
+
+input.calc-btn {
+    background: #007bff;
+    color: #fff;
+    border: 1px solid #ccc;
+    font-size: 100%;
+    width: 100%;
+    float: none;
+    margin: 15px 0px 0px 0px;
+}
+
+.form-box {
+    position: relative;
+    border: solid #fff;
+}
+
+.doc p {
+    padding: 5px 1%;
+}
+
+form, p {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 1em;
+    padding-inline-end: 1em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+    border-style: groove;
+    border-color: threedface;
+    border-image: initial;
+}
