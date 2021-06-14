@@ -1,4 +1,4 @@
-# black-scholes.org
+# black-scholes.org / blackscholes.org
 Files p.t. https://www.black-scholes.org hosted on www.pythonanywhere.com
 
 Traffic (as of May 11 2021):
